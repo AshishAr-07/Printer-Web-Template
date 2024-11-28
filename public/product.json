@@ -1,0 +1,62 @@
+[
+  {
+    "title": "PS Pixma G4500",
+    "category": "Laser Printer",
+    "image": "/p1.png",
+    "additionalimage": ["/p1.png", "/p2.png"],
+    "saleprice": "9999",
+    "price": "12000",
+    "shortdesc": "Suitable for high-volume monochrome printing with additional scanning and copying features ",
+    "Decription": "It features a high-capacity MegaTank ink system that significantly reduces the cost of printing per page. With sharp resolutions of up to 4800 x 1200 dpi, it delivers vivid colors and crisp text. The G6020 supports wireless printing, allowing seamless connection with mobile devices and cloud services. Additionally, it offers scanning and copying functionality, making it versatile for various needs."
+  },
+  {
+    "title": "PS canon G4P90",
+    "category": "All in One Printer",
+    "image": "/p2.png",
+    "additionalimage": ["/p1.png", "/p2.png"],
+    "saleprice": "9999",
+    "price": "12000",
+    "shortdesc": "Suitable for high-volume monochrome printing with additional scanning and copying features ",
+    "Decription": "It features a high-capacity MegaTank ink system that significantly reduces the cost of printing per page. With sharp resolutions of up to 4800 x 1200 dpi, it delivers vivid colors and crisp text. The G6020 supports wireless printing, allowing seamless connection with mobile devices and cloud services. Additionally, it offers scanning and copying functionality, making it versatile for various needs."
+  },
+  {
+    "title": "PSP Combo B4",
+    "category": "Color Printer",
+    "image": "/p3.png",
+    "additionalimage": ["/p1.png", "/p2.png"],
+    "saleprice": "9999",
+    "price": "12000",
+    "shortdesc": "Suitable for high-volume monochrome printing with additional scanning and copying features ",
+    "Decription": "It features a high-capacity MegaTank ink system that significantly reduces the cost of printing per page. With sharp resolutions of up to 4800 x 1200 dpi, it delivers vivid colors and crisp text. The G6020 supports wireless printing, allowing seamless connection with mobile devices and cloud services. Additionally, it offers scanning and copying functionality, making it versatile for various needs."
+  },
+  {
+    "title": "Envo PS45",
+    "category": "All in One Printer",
+    "image": "/p4.png",
+    "additionalimage": ["/p1.png", "/p2.png"],
+    "saleprice": "9999",
+    "price": "12000",
+    "shortdesc": "Suitable for high-volume monochrome printing with additional scanning and copying features ",
+    "Decription": "It features a high-capacity MegaTank ink system that significantly reduces the cost of printing per page. With sharp resolutions of up to 4800 x 1200 dpi, it delivers vivid colors and crisp text. The G6020 supports wireless printing, allowing seamless connection with mobile devices and cloud services. Additionally, it offers scanning and copying functionality, making it versatile for various needs."
+  },
+  {
+    "title": "Exma Script",
+    "category": "Laser Printer",
+    "image": "/p5.png",
+    "additionalimage": ["/p1.png", "/p2.png"],
+    "saleprice": "9999",
+    "price": "12000",
+    "shortdesc": "Suitable for high-volume monochrome printing with additional scanning and copying features ",
+    "Decription": "It features a high-capacity MegaTank ink system that significantly reduces the cost of printing per page. With sharp resolutions of up to 4800 x 1200 dpi, it delivers vivid colors and crisp text. The G6020 supports wireless printing, allowing seamless connection with mobile devices and cloud services. Additionally, it offers scanning and copying functionality, making it versatile for various needs."
+  },
+  {
+    "title": "Envo 6SS45",
+    "category": "Color Printer",
+    "image": "/p6.png",
+    "additionalimage": ["/p1.png", "/p2.png"],
+    "saleprice": "9999",
+    "price": "12000",
+    "shortdesc": "Suitable for high-volume monochrome printing with additional scanning and copying features ",
+    "Decription": "It features a high-capacity MegaTank ink system that significantly reduces the cost of printing per page. With sharp resolutions of up to 4800 x 1200 dpi, it delivers vivid colors and crisp text. The G6020 supports wireless printing, allowing seamless connection with mobile devices and cloud services. Additionally, it offers scanning and copying functionality, making it versatile for various needs."
+  }
+]
