@@ -33,7 +33,7 @@ export function Banner({ items }) {
             <CarouselItem key={index}>
               <div className="relative w-full md:aspect-[21/8] aspect-square">
                 <Image
-                  unoptimized
+                  loading = 'eager'
                   src={item.image}
                   alt={`Banner image ${index + 1}`}
                   fill
