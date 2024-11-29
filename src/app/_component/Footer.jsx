@@ -37,7 +37,7 @@ export default function Footer() {
           </section>
 
         </div>
-        <div className='w-full mt-8 text-lg  py-5 border-t border-white '><p className='text-center'>© PrintS 2024 | All Rights Reserved | Design By Xcel B2B </p></div>
+        <div className='w-full mt-8 text-lg  py-5 border-t border-white '><p className='text-center'>© PrintS 2024 | All Rights Reserved </p></div>
       </Wrapper>
     </div>
   )
