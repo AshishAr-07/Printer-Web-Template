@@ -55,7 +55,7 @@ export default function ProductPage() {
                     <Card>
                       <CardContent className="flex aspect-square items-center justify-center p-2">
                         <Image
-                          unoptimized
+                          loading = 'eager'
                           src={image}
                           alt={`${currentProduct.title} - Image ${index + 1}`}
                           width={500}
